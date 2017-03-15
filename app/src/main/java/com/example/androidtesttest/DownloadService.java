@@ -16,6 +16,7 @@ import java.io.File;
 
 public class DownloadService extends Service {
 
+    // modify config
     private DownloadTask downloadTask;
 
     private String downloadUrl;
